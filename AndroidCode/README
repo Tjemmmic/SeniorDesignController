@@ -1,3 +1,6 @@
 A portion of this project uses code from the following project https://github.com/efficientisoceles/JoystickView under the GNU GPL v3 License
 
 The code from the project above was modified to be incorporated in my controller as of December 01, 2021
+
+Additionally, code from the following project https://github.com/uin3566/AllAngleExpandableButton was also used. For this reason, the license for this project has been included (listed in this directory as ButtonLicense)
+However, note that the license included in the ButtonLicense file is not the license applicable to the current project.
